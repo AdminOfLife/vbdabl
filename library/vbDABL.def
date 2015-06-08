@@ -1,0 +1,10 @@
+LIBRARY   vbDABL
+
+EXPORTS    
+	vbDABLalphablend16
+	vbDABLalphablend16555		
+	vbDABLalphablend16565		
+	vbDABLcolorblend16555		
+	vbDABLcolorblend16565		
+	vbDABLcolorblend16555ck		
+	vbDABLcolorblend16565ck		
